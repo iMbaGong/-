@@ -9,11 +9,11 @@
 不信你看我加个色图（划掉
 
 
-[假的色图]（https://github.com/iMbaGong）
+![假的色图]（https://github.com/iMbaGong）
 我在加个**猫点**
 <h1 id="user-content-锚点">猫点</h1>
 
-'''
-hellozzy学姐
-'''
-(为什么我加不了代码？？？
+`
+hello zzy学姐
+`
+
